@@ -7,7 +7,7 @@
     "tool"
   ],
   "addons": [
-    "heroku-postgresql:hobby-dev",
+    "heroku-postgresql:mini",
     "herokuconnect:demo",
     "papertrail:choklad"
   ],
